@@ -1,4 +1,4 @@
-# Daily-Links-check-
+# Daily-Links-check- To be done daily - [pin]
 These are the links for learning everyday that i need to work on!
 1. https://prepinstaprime.com/course/mern-stack
 
