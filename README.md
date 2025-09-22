@@ -28,3 +28,4 @@ These are the links for learning everyday that i need to work on!
 
 14. https://frontend.graphy.com/s/courses/65feafbabd3dd70b1d10e49d/take
 
+15. https://namastedev.com/--- 2 courses.
