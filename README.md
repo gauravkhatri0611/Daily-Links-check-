@@ -31,3 +31,15 @@ These are the links for learning everyday that i need to work on!
 15. https://namastedev.com/--- 2 courses.
 
 16. https://docs.google.com/document/u/0/d/15afNOT9dmi5HK7hPPwGQQRcUK7yz8Ewu4q5fuLroriI/mobilebasic
+
+17. https://www.propeers.in/roadmaps/686f517e881b549d7cd72269 --
+Arrays – 500+ problems → just 5 patterns
+Trees – 400+ problems → just 6 patterns
+Heaps – 150+ problems → just 2 patterns
+Graphs – 350+ problems → just 7 patterns
+Strings – 400+ problems → just 4 patterns
+Intervals – 120+ problems → just 2 patterns
+Linked Lists – 250+ problems → just 3 patterns
+Backtracking – 200+ problems → just 3 patterns
+Stacks & Queues – 200+ problems → just 3 patterns
+Dynamic Programming – 700+ problems → just 8 patterns
