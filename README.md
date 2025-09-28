@@ -43,3 +43,5 @@ Linked Lists – 250+ problems → just 3 patterns
 Backtracking – 200+ problems → just 3 patterns
 Stacks & Queues – 200+ problems → just 3 patterns
 Dynamic Programming – 700+ problems → just 8 patterns
+
+18. https://drive.google.com/drive/folders/1zvyqUgJAhUWItUFE4OObnxq6IkW5xOZw - All Notes and ideas
